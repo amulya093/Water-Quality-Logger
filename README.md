@@ -14,11 +14,10 @@ Time,pH,Turbidity,Temperature
 
 ###  How to Run
 
-```bash
 g++ main.cpp -o water_logger.exe
 ./water_logger.exe
 
-### Technologies Used 
+###  Technologies Used 
 C++ (File I/O, Random, Thread, Chrono)
 CSV file generation
 Console-based simulation
